@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I lead development at [SwiftOtter](https://swiftotter.com/) and work with a terrific team. I'm a Magento 2 Full Stack Developer and Solution Specialist.
+I am a team lead at [SwiftOtter](https://swiftotter.com/) and work with a terrific team. I'm a Magento 2 Full Stack Developer and Solution Specialist.
 
 <img src="https://swiftotter.com/media/wysiwyg/full_stack_m2_developer.png" alt="Magento 2 Full Stack Developer" height="100"/> &nbsp; &nbsp; &nbsp; <img src="https://swiftotter.com/media/wysiwyg/big_solution_specialist_m2.jpg" alt="Magento 2 Solution Specialist" height="100"/>
 
